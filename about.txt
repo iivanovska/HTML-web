@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>about </title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" href="base.css" />
+		<link rel="shortcut icon" href="images/favicon.ico">
+		<!--[if It IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]-->
+	</head>
+<body>
+	<nav>
+	<p id="home"><a href="index.html">home</a></p>
+	<p id="about">about</p>
+	<p id="photos"><a href="photos.html">photos</a></p>
+	</nav>
+	<img id="main-img" src="images/gossip-girl01.jpg"/>
+	<article id="main">
+	<p>Gossip Girl is an American teen drama television series 
+	based on the book</br> series of the same name written by Cecily 
+	von Ziegesar.</br> The series was created by Josh Schwartz and 
+	Stephanie Savage,</br> and premiered on The CW on September 19, 2007. </br>
+	Narrated by the omniscient blogger "Gossip Girl", voiced by Kristen 
+	Bell,</br> the series revolves around the lives of privileged young adults</br>
+	on Manhattan's Upper East Side in New York City. </p>
+	
+	<p>The series begins with the return of Upper East Side "It" girl,</br>
+	Serena van der Woodsen (Blake Lively)</br> from a mysterious stay at a boarding school
+	in Cornwall, Connecticut.</br> Blair Waldorf (Leighton Meester), whom creators describe
+	as the </br>queen at the center of their chess game, is a longtime friend and </br>
+	occasional rival of Serena's, and the Queen Bee of Constance Billard School's social scene.</br>
+	The story also follows Chuck Bass (Ed Westwick), the bad boy of the Upper East Side;</br>
+	"golden boy" Nate Archibald (Chace Crawford), Chuck's best friend and Blair's boyfriend</br> for many years.
+	However, their relationship had been rocky ever since Serena left for boarding school.</br>
+	Other characters of the turbulent Manhattan scene: Dan Humphrey (Penn Badgley),</br>
+	Dan's best friend Vanessa Abrams (Jessica Szohr),</br> Dan's sister, Jenny Humphrey (Taylor Momsen),</br>
+	and con artist Ivy Dickens (Kaylee DeFer).</p>
+	
+	<p>The show has received numerous award nominations,</br>
+	winning 18 Teen Choice Awards.</br> The CW officially renewed 
+	Gossip Girl</br> for a sixth and final season on May 11, 2012.</br>
+	The final season, consisting of 10 episodes,</br> premiered on 
+	October 8, 2012, and <b>will end in late December.</b></p>
+	</article>
+	
+	<footer id="aboutf">
+	<p>&copy; 2012 Ivana Ivanovska </p>
+	</footer>
+</body>
+</html>

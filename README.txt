@@ -1,1 +1,0 @@
-Kodot e za Web strana koja ja rabotam so HTML vo Notepad++.

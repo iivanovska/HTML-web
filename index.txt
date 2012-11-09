@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Gossip Girl Fan Page </title>
+		<meta charset="UTF-8"/>
+		<meta name="Description" content="Gossip Girl Fan page" />
+		<meta name="keywords" content="Gossip Girl, Chuck Bass, Serena Van Der Woodsen, Blair Waldorf, Dan Humphrey, Nate Archibald" />
+		<link rel="stylesheet" href="base.css"/>
+		<link rel="shortcut icon" href="images/favicon.ico" > <!-- ne funkcionira. ZOSTO???  -->
+		<!--[if It IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]-->
+	</head>
+<body>
+	<nav>
+	<p id="home">home</p>
+	<p id="about"><a href="about.html">about</a></p>
+	<p id="cast">cast</p>
+	<p id="photos"><a href="photos.html">photos</a></p>
+	</nav>
+	
+	<footer>
+	<p>&copy; 2012 Ivana Ivanovska </p>
+	</footer>
+</body>
+</html>
