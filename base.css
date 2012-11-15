@@ -4,7 +4,7 @@ article, aside, figcaption, figure, footer, header, hgroup, menu, nav, section
 	}
 body{
 	font-family:Berlin Sans FB, "Arial Black", arial;
-	color: white;
+	color: black;
 	font-size: 100%;
 	background-color:#FFE4B8;
 	background-image: url('images/background1.jpg');
@@ -12,40 +12,57 @@ body{
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 }
-#home{
+#Najava{
+	margin-left:1150px;
+	margin-top: 70px;
+	background-color: #435749;
+	color:#470909;
+	border-color:black;
+	font-weight:normal;
+	font-size:18px;
+	}
+#Registriraj{
+	font-size:small;
+	margin-left:1180px;
+	margin-top:2px;
+	background-color: none;
+	color:#470909;
+	font-weight:normal;
+	}
+.home{
 	color:#fda925;
 	font-size: 120%;
 	background-color:none;
 	text-align:right;
 	margin-right: 1030px;
-	margin-top: 250px;
+	margin-top: 50px;
 	margin-left: 150px;
 	}
-#about{
+.about{
 	color:#fda925;
 	font-size: 120%;
 	background-color: none;
 	text-align:right;
 	margin-right: 1030px;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 150px;
 	}
-#cast{
+.cast{
 	color:#fda925;
 	font-size: 120%;
 	background-color: none;
 	text-align:right;
 	margin-right: 1030px;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 150px;
 	}
-#photos{
+.photos{
 	color:#fda925;
 	font-size: 120%;
 	background-color: none;
 	text-align:right;
 	margin-right: 1030px;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 150px;
 	}
 a:link{
@@ -81,8 +98,16 @@ a:hover{
 	border:1 1 1 1px;
 	}
 #main-img{
-	margin-top:-150px;
+	margin-top:-200px;
 	margin-left:400px;
+	}
+#partners{
+	color:#fda925;
+	text-align:center;
+	margin-top: -10px;
+	margin-left:1150px;
+	border-color: #fda925;
+	background-color:black;
 	}
 footer{
 	text-align:left;
